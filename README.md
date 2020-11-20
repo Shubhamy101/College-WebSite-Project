@@ -11,9 +11,7 @@ Admissions, Other Campuses,Technical Programs for Students both Under-Graduate &
 Companies & Recruiters etc.
 
 The Website tells all Key Features about the College - 
-
-It’s Facilities, Faculty, Milestones,
-Alumni, Infrastructure etc. 
+It’s Facilities, Faculty, Milestones, Alumni, Infrastructure etc. 
 
 It Also Shows Students Interests Like 
 Campus Life, Hostels, Facilities, Sports, Classrooms, Labs, Auditoriums, Cafeteria and Nearby facilities.
